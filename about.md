@@ -19,12 +19,12 @@ sequence: 9
 {% endif %}
 
 
-我是<u>饮冰先生</u>，毕业于北京邮电大学计算机专业，目前在中国北京居住和工作，从事 IT 行业。我喜爱阅读、电影、数码技术和一切美的事物，也喜欢哲学和历史。我是一个具有 [INFP](http://www.personalitypage.com/INFP.html) 性格的人。
+我是<u>诗酒且长歌</u>，毕业于三流学院，目前在深圳居住和工作，从事 IT 行业。我喜爱阅读、电影、数码技术和一切美的事物，也喜欢哲学和历史。我是一个具有 [INFP](http://www.personalitypage.com/INFP.html) 性格的人。
 
 
 ## 更加了解我
 
-我在[豆瓣读书](http://book.douban.com/people/yianbin)上分享我正在看的书以及想看的书，在 [GitHub](https://github.com/myanbin) 上维护我的代码以及关注开源项目，你还可以在 [Linkedin](https://www.linkedin.com/in/myanbin) 上找到我。
+我在豆瓣读书上分享我正在看的书以及想看的书，在 [GitHub](https://github.com/nullhan) 上维护我的代码以及关注开源项目，你还可以在gitee上找到我。
 
 我的一些摄影作品会发布在[影集]({{site.baseurl}}/photo.html)中。
 
