@@ -1,4 +1,5 @@
 # Add an entry, where the key represents a slug.
+# 添加一个条目,其中，键表示一个slug。
 # Provide at least a `name` value and optionally `image`, `color` and `description`.
 # Markdown is enabled for `description`, however don't use more than one paragraph (enforced by `>`)
 #
@@ -22,6 +23,7 @@ code:
   name: 代码
   image: /public/images/geometry.jpg
   description: >
+    我喜欢代码，它们被封装成一块一块，任意拼接，构筑成互联网中的新世界
     像建筑师、作曲家和画家一样，黑客们也在进行着富有创造性和挑战性的工作：他们将代码构筑成如今的互联网和计算机的世界。
 
 read:
